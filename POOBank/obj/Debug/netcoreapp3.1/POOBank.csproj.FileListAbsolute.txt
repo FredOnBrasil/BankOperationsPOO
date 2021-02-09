@@ -1,0 +1,13 @@
+C:\Users\FredOn\source\repos\POOBank\POOBank\bin\Debug\netcoreapp3.1\POOBank.exe
+C:\Users\FredOn\source\repos\POOBank\POOBank\bin\Debug\netcoreapp3.1\POOBank.deps.json
+C:\Users\FredOn\source\repos\POOBank\POOBank\bin\Debug\netcoreapp3.1\POOBank.runtimeconfig.json
+C:\Users\FredOn\source\repos\POOBank\POOBank\bin\Debug\netcoreapp3.1\POOBank.runtimeconfig.dev.json
+C:\Users\FredOn\source\repos\POOBank\POOBank\bin\Debug\netcoreapp3.1\POOBank.dll
+C:\Users\FredOn\source\repos\POOBank\POOBank\bin\Debug\netcoreapp3.1\POOBank.pdb
+C:\Users\FredOn\source\repos\POOBank\POOBank\obj\Debug\netcoreapp3.1\POOBank.csprojAssemblyReference.cache
+C:\Users\FredOn\source\repos\POOBank\POOBank\obj\Debug\netcoreapp3.1\POOBank.csproj.CoreCompileInputs.cache
+C:\Users\FredOn\source\repos\POOBank\POOBank\obj\Debug\netcoreapp3.1\POOBank.AssemblyInfoInputs.cache
+C:\Users\FredOn\source\repos\POOBank\POOBank\obj\Debug\netcoreapp3.1\POOBank.AssemblyInfo.cs
+C:\Users\FredOn\source\repos\POOBank\POOBank\obj\Debug\netcoreapp3.1\POOBank.dll
+C:\Users\FredOn\source\repos\POOBank\POOBank\obj\Debug\netcoreapp3.1\POOBank.pdb
+C:\Users\FredOn\source\repos\POOBank\POOBank\obj\Debug\netcoreapp3.1\POOBank.genruntimeconfig.cache
